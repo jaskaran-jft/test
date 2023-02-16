@@ -1,2 +1,0 @@
-from test branch 1
-2nd commit from test branch 1
